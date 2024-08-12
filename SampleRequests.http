@@ -1,0 +1,5 @@
+GET http://localhost:5234/bosses
+
+###
+
+GET http://localhost:5234/bosses/021
